@@ -1,4 +1,4 @@
-# HR-Analtics-Dashboard-Using-Tableau
+# HR-Analytics-Dashboard-Using-Tableau
 This HR Dashboard project aims to create a comprehensive dashboard that analyzes and visualizes human resource data in a company. The dashboard will provide important insights into various aspects of HR, including the number of employees, attrition rate, number of active employees, average age of employees, attrition by department, education level, job satisfaction, and attrition by gender and age group.
 
 This dashboard displays the total number of employees, number of resignations, active employees, attrition rate, and average age of employees clearly at the top. Visualizations such as pie charts show the distribution of attrition by department, helping to identify departments with the highest attrition rates. Histograms or bar graphs are used to display the number of employees by age group, which helps in understanding the age distribution in the company.
